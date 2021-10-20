@@ -18,7 +18,7 @@ body {
 }
 
 main {
-  background: url(/Imagens/Cartão.png);
+  background: url(./Imagens/cartao.png);
   width: 375px;
   height: 812px;
 }
